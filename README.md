@@ -1,4 +1,4 @@
-## Unich Daily Claim Bot
+## Unich Daily Claim Bot.
 The Unich Daily Claim Bot is a powerful automation tool designed to help users mine FD Tokens effortlessly. This bot interacts with the Unich platform and automatically performs the necessary tasks to claim FD tokens on a daily basis. This eliminates the need for manual intervention, ensuring users can accumulate tokens seamlessly.
 ## 📢 Join Our Community
 
